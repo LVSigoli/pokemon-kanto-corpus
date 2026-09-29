@@ -1,0 +1,9 @@
+2026-09-24 00:17:25 | INFO | Início da execução do Trabalho 1
+2026-09-24 00:17:25 | INFO | Diretório raiz: /content/drive/MyDrive/IFSP-ADS/ultimo_periodo/tc_2/avaliacao/corpus/corpus_data_firered
+2026-09-24 00:17:25 | INFO | Arquivo de log: /content/drive/MyDrive/IFSP-ADS/ultimo_periodo/tc_2/avaliacao/corpus/corpus_data_firered/logs/trabalho_1/execution.log
+2026-09-24 00:17:25 | INFO | Recursos do NLTK carregados
+2026-09-24 00:17:26 | INFO | Coleta concluída | total=151 | erros=0
+2026-09-24 00:17:29 | INFO | Construção dos documentos concluída | documentos=151 | erros=0
+2026-09-24 00:17:32 | INFO | Validação concluída com sucesso | documentos=151
+2026-09-24 00:17:32 | INFO | Bag of Words criado | shape=(151, 1214) | vocabulario=1214
+2026-09-24 00:17:32 | INFO | Avaliação concluída | métodos=2 | consultas=6
